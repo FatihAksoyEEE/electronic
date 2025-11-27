@@ -1,6 +1,6 @@
-
-    
-    <title>Elektronik Güç Hesaplayıcı</title>
+   
+<h1>Elektronik Güç Hesaplayıcı (Power Calculator)</h1>
+Bu proje, elektrik ve elektronik devrelerinde kullanılan temel güç hesaplamalarını (DC ve AC) gerçekleştiren, kullanımı kolay bir komut satırı aracıdır. Ohm Kanunu ve Güç Üçgeni prensiplerini temel alır.
 
     <style>
         :root {
